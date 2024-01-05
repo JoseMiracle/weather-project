@@ -1,4 +1,4 @@
 from .dev import *
 
-ALLOWED_HOSTS = ['https://loan-me.onrender.com']
+ALLOWED_HOSTS = ['https://weather-nksb.onrender.com']
 DEBUG = False
